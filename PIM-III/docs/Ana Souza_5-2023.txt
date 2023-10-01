@@ -1,0 +1,7 @@
+----------RESUMO FOLHA DE PAGAMENTO-----------
+Empresa: Maxxi Tecnologias de Recursos LTDA
+Nome: Ana Souza - Gerente
+Salário Bruto: 1600,00
+-Desconto: 0
+Salário Líquido: 1600,00
+--------GERADO EM 01/10/2023 17:20:37---------
